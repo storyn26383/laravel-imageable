@@ -35,5 +35,12 @@
         "classmap": [
             "database"
         ]
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Sasaya\\LaravelImageable\\LaravelImageableServiceProvider"
+            ]
+        }
     }
 }
