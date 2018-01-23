@@ -1,24 +1,12 @@
-# PHP Project Skeleton
+# Laravel Imageable
 
-A PHP project skeleton integration with PHPUnit, PHP CodeCoverage and PHP CodeSniffer.
-
-[![Build Status](https://travis-ci.org/storyn26383/unit-test.svg?branch=master)](https://travis-ci.org/storyn26383/unit-test)
-[![Coverage Status](https://coveralls.io/repos/github/storyn26383/unit-test/badge.svg?branch=master)](https://coveralls.io/github/storyn26383/unit-test?branch=master)
+[![Build Status](https://travis-ci.org/storyn26383/laravel-imageable.svg?branch=master)](https://travis-ci.org/storyn26383/laravel-imageable)
+[![Coverage Status](https://coveralls.io/repos/github/storyn26383/laravel-imageable/badge.svg?branch=master)](https://coveralls.io/github/storyn26383/laravel-imageable?branch=master)
 
 ## Quick Start
 
 ### Installation
 
 ```bash
-$ git clone https://github.com/storyn26383/unit-test.git
-
-$ cd unit-test
-
-$ make init
+$ composer require sasaya/laravel-imageable
 `````
-
-### Run Test
-
-```bash
-$ make test
-```
